@@ -1,5 +1,7 @@
 # Velvet Pour - GSAP & React Cocktail Landing Page
 
+![Thumbnail](./public/readme/thumbnail.png)
+
 This repository contains a modern, highly interactive landing page for a fictional cocktail bar, "Velvet Pour". The project showcases complex scroll-based animations, text splitting, video scrubbing, and image masking, creating a premium and engaging user experience.
 
 > **Note:** This project was built by following a tutorial from the YouTube channel **[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)**.
